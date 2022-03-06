@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const USER_API_BASE_URL = "http://localhost:8080/api/v1/buddy-system";
+const USER_API_BASE_URL = "http://buddy-env.eba-epkynjas.eu-west-1.elasticbeanstalk.com/api/v1/buddy-system";
 
 class UserService {
 
